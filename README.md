@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/d2/0b/78/d20b78f53f108676d3225fdbeb3311bb.jpg"  />
+  <img height="250" src="https://i.pinimg.com/originals/d2/0b/78/d20b78f53f108676d3225fdbeb3311bb.jpg"  />
 </div>
 
 ###
@@ -28,11 +28,8 @@
 
 ###
 
-<h3 align="left">🧑🏻‍💻  About Me</h3>
 
-###
-
-<p align="left"><h4>I'm Oto</h4><br>I'm a web developer currently exploring various programming languages. I enjoy building interactive and user-friendly applications, and I'm always eager to learn new technologies. Whether it's front-end development or diving into back-end systems, I'm excited to create and innovate in the digital world. Let's connect and build something amazing together!</p>
+<p align="left"><h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>I'm a web developer currently exploring various programming languages. I enjoy building interactive and user-friendly applications, and I'm always eager to learn new technologies. Whether it's front-end development or diving into back-end systems, I'm excited to create and innovate in the digital world. Let's connect and build something amazing together!</p>
 
 ###
 
