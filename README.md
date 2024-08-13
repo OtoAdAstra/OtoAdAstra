@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Oto<br>I'm a web developer currently exploring various programming languages. I enjoy building interactive and user-friendly applications, and I'm always eager to learn new technologies. Whether it's front-end development or diving into back-end systems, I'm excited to create and innovate in the digital world. Let's connect and build something amazing together!</p>
+<p align="left"><h4>I'm Oto</h4><br>I'm a web developer currently exploring various programming languages. I enjoy building interactive and user-friendly applications, and I'm always eager to learn new technologies. Whether it's front-end development or diving into back-end systems, I'm excited to create and innovate in the digital world. Let's connect and build something amazing together!</p>
 
 ###
 
