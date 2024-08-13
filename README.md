@@ -29,7 +29,7 @@
 ###
 
 
-<p align="left"><h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>I'm a web developer currently exploring various programming languages. I enjoy building interactive and user-friendly applications, and I'm always eager to learn new technologies. Whether it's front-end development or diving into back-end systems, I'm excited to create and innovate in the digital world. Let's connect and build something amazing together!</p>
+<p align="left"><h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>Web developer, maximalist and astrophile.</br>I’m not saying I’m the best (yet I am), but I’ve definitely googled it more than once. My code may be clean, but my humor is delightfully messy. Balance is key. Okay, to be serious, we can collaborate. Always game for something new;*</p>
 
 ###
 
