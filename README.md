@@ -29,7 +29,7 @@
 ###
 
 
-<p align="left"><h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>Web developer, maximalist and astrophile.</br>I’m not saying I’m the best, but I'm the best (at Googling my way to greatness). My code may be clean, but my humor is delightfully messy. Balance is key. To be serious, we can collaborate. Always game for something new💪🏻</p>
+<p align="left"><h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>Web developer, maximalist and astrophile.</br>I’m not saying I’m the best, but I'm Googling my way to greatness. My code may be clean, but my humor is delightfully messy. Balance is key. To be serious, we can collaborate. Always game for something new💪🏻</p>
 
 ###
 
