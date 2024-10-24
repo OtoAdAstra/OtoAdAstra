@@ -11,7 +11,7 @@
   <a href="https://x.com/OSharvashidze" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/otoexastris" target="_blank">
+  <a href="https://www.instagram.com/otoadastra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -24,12 +24,19 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hello👋</h1>
 
 ###
 
 
-<p align="left"><h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>Web developer, maximalist and astrophile.</br>Googling my way to greatness. Sporty and snappy. Idolizing Nietzsche and Cristiano (I know, it's a wide spectrum). My code may be clean, but my humor is delightfully messy. Balance is key. To be serious, we can collaborate. Always game for something new💪🏻</p>
+<p align="left">
+  <h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>
+  Web developer, maximalist, and astrophile.<br/>
+  Idolizing Nietzsche and Cristiano (I know, quite a range).<br/>
+  Libertarian and capitalist.<br/>
+  Sporty, free, and an animal lover (more of a cat person—we look alike).
+</p>
+
 
 ###
 
