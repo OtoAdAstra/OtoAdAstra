@@ -31,7 +31,7 @@
 
 <p align="left">
   <h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>
-  Web developer, maximalist, and astrophile.<br/>
+  Software Engineer, maximalist, and astrophile.<br/>
   Idolizing Nietzsche and Cristiano (I know, quite a range).<br/>
   Libertarian and capitalist.<br/>
   Sporty, free, and an animal lover (more of a cat person—we look alike).
