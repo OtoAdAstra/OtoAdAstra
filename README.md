@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,mongodb,express,git,github,sass,tailwind,figma,npm,vite" />
+  <img src="https://skillicons.dev/icons?i=ts,js,next,react,nodejs,express,mongodb,sass,tailwind,swift" />
   <img width="12" />
 </div>
 
