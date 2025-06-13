@@ -32,7 +32,7 @@
 <p align="left">
   <h3><strong>I'm Oto 🧑🏻‍💻</strong></h3>
   Software Engineer, maximalist, and astrophile.<br/>
-  Libertarian and capitalist.<br/>
+  Economics and astronomy enthusiast.<br/>
   Sporty, free, and an animal lover (more of a cat person—we look alike).
 </p>
 
