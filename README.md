@@ -39,12 +39,12 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,next,react,nodejs,express,mongodb,sass,tailwind,swift" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,next,react,nodejs,express,mongodb,sass,tailwind,python,swift" />
   <img width="12" />
 </div>
 
